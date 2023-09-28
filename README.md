@@ -1,2 +1,2 @@
-# 2_Linear-Regression
+# Linear-Regression
 CNM Deep Dive Data Science Part Time Bootcamp Project 2
